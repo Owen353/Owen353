@@ -17,4 +17,5 @@ Tech
 
 Languages · Java · JavaScript · SQL · Python Backend · Node.js · Express · Spring Boot Frontend · HTML/CSS · React Data · MySQL Tools · Git · Eclipse · VS Code
 
-Reach m
+Reach me
+https://www.linkedin.com/in/likun-gu-96669a229/
